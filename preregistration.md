@@ -75,7 +75,7 @@ Ten participants with normal or corrected-to-normal vision will complete the stu
 
 For each participant individually:
 
-1. Calculate median discrimination times for each stimulus difference
+1. Calculate mean discrimination times for each stimulus difference
 2. Plot median discrimination time (y-axis) against stimulus difference in sq.mm (x-axis)
 3. Use hyperbolic coordinates to test whether the data follow the predicted reciprocal function
 
