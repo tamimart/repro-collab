@@ -50,7 +50,7 @@ Ten participants with normal or corrected-to-normal vision will complete the stu
 
 ### Procedure
 
-1. Participants sit at a comfortable viewing distance from the tachistoscope
+1. Participants sit at a comfortable viewing distance from the computer monitor
 2. On each trial:
    - Two squares appear simultaneously (reference and comparison)
    - The participant judges which square is larger by pressing a corresponding button
@@ -60,7 +60,7 @@ Ten participants with normal or corrected-to-normal vision will complete the stu
    - 200 trials for comparison sizes very close to the reference (hardest discriminations)
    - 100 trials for intermediate differences
    - 50 trials for the largest differences (easiest discriminations)
-   - Total: approximately 6,850 trials per participant
+   - Total: approximately 658 trials per participant
 4. Sessions last approximately one hour, with regular breaks to prevent fatigue
 
 ### Key Measurements
