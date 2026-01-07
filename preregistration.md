@@ -1,14 +1,13 @@
-# Replication of Classic Psychophysical Research on Size Discrimination
-
+# Replication Steven's Powerlaw
 ## Study Overview
 
-Psychophysics is the scientific study of the relationship between physical stimuli (like light, sound, or size) and our psychological perception of them.
+Psychophysics is the study of the relationship between physical stimuli (like light, sound, or size) and our psychological perception of them.
 A fundamental question in this field is: when something in the world changes by a certain amount, how much does our perception of it change?
 
 > "The tower of Babel was never finished because the workers could not reach an understanding on how they should build it; my psychophysical edifice will stand because the workers will never agree on how to tear it down."  
 > — Gustav Fechner (1877)
 
-In this quote, Fechner—the founder of psychophysics—humorously suggests that his framework for understanding how we perceive the physical world will endure precisely because critics cannot agree on a unified approach to challenge it.
+In this quote, Fechner suggests that his framework for understanding how we perceive the physical world will endure precisely because critics cannot agree on a unified approach to challenge it.
 Empierically we can challenge it by trying to replicate an original experiment from the time.
 
 This study replicates pioneering work from the 1940s-1950s on visual perception, specifically examining how people judge the relative sizes of objects.
@@ -86,9 +85,3 @@ We will examine whether the data show:
 - A horizontal line (constant discrimination time) for very small stimulus differences
 - A transition point (likely corresponding to the JND)
 - A negatively sloped line for larger stimulus differences (indicating faster discrimination as difference increases)
-
-### Secondary Analyses
-
-1. Calculate error rates for each stimulus difference
-2. Identify the approximate location of the just noticeable difference (JND) as the point where the function transitions from flat to sloped
-3. Compare patterns across participants to assess consistency
